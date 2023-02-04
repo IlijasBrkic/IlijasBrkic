@@ -1,8 +1,7 @@
-<h1 align="left">Hi 👋, I'm Ilijas Brkic</h1>
+<h1 align="center">Hi 👋, I'm Ilijas Brkic</h1>
 <h3 align="left">A 17y. old developer from Austria</h3>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ilijasbrkic&show_icons=true&locale=en" alt="ilijasbrkic" /></p>
-
 
 - 🔭 I’m currently working on [DeepTalk](https://github.com/DeepTalkApp/DeepTalkWeb)
 
