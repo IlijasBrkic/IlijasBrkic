@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilijas Brkic</h1>
 <h3 align="center">A passionate frontend developer from Austria</h3>
-<img align="right" alt="Working ==>" width="250" src="https://i.stack.imgur.com/RcwcN.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilijasbrkic&label=Profile%20views&color=0e75b6&style=flat" alt="ilijasbrkic" /> </p>
 
