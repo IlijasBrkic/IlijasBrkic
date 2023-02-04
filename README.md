@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilijas Brkic</h1>
-<h3 align="center">A passionate frontend developer from Austria</h3>
+<h3 align="center">A 17y. old developer from Austria</h3>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ilijasbrkic&show_icons=true&locale=en" alt="ilijasbrkic" /></p>
 
